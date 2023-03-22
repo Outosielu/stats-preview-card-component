@@ -1,0 +1,32 @@
+body {
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: hsl(233, 47%, 7%);
+  height: 100vh;
+}
+
+.box {
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 45vh;
+  width: 100vh;
+  background: hsl(244, 38%, 16%);
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+}
+
+h1 {
+  color: aqua;
+}
+
+/*font-family: 'Lexend Deca', sans-serif;*/
+/*font-family: 'Inter', sans-serif;*/
+/*flexjutut, mixin ja suunnat ei toimi?*//*# sourceMappingURL=style.css.map */
